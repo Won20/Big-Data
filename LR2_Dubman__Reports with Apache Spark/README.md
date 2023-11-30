@@ -14,13 +14,18 @@
 ## Функционал программы необходимый для поиска
 
 ### 1) Функция для фильтрации по датам
-def check_date(x, year):
-  """
-  Данная функция была написана для фильтрации по датам,
-  так как нас интересует период с 2010 год по 2020 (не включая) год
-  """
-  start = datetime(year=year, month=1, day=1)
-  end = datetime(year=year, month=12, day=31)
-  CreationDate = x._CreationDate
-  return CreationDate >= start and CreationDate <= end
+![image](https://github.com/Won20/Big-Data/assets/102918065/43fdafeb-a91d-413d-8178-989a45ed5d50)
+
+### 2) Функция перевода текста в нижний регистр и поиска названия языка программирования
+![image](https://github.com/Won20/Big-Data/assets/102918065/82a5ff88-90a4-413f-941c-a385c142a770)
+
+### 3)  Код для непосредственного поиска
+![image](https://github.com/Won20/Big-Data/assets/102918065/e9930352-a2cd-4899-b3de-ef6fde822254)
+
+### 4) Результат
+![image](https://github.com/Won20/Big-Data/assets/102918065/275c91d2-9b13-4099-b4e7-3180f5e9837d) ![image](https://github.com/Won20/Big-Data/assets/102918065/190df2f6-fdd1-4e47-8b7c-08c518f4537b)
+
+
+
+
   
