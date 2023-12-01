@@ -13,15 +13,16 @@
 
 # Реализация
 ## 1) найти велосипед с максимальным временем пробега
-
+![image](https://github.com/Won20/Big-Data/assets/102918065/bfad1c9a-4ab3-44d5-830b-bec857c2ed33)
 
 ## 2) найти наибольшее геодезическое расстояние между станциями
-
+![image](https://github.com/Won20/Big-Data/assets/102918065/1291be20-6128-44f3-b695-a02a4dc29369)
 
 ## 3) найти путь велосипеда с максимальным временем пробега через станции
-
+![image](https://github.com/Won20/Big-Data/assets/102918065/0e5cdfec-8998-43a0-ba42-89b180119eda)
 
 ## 4) найти количество велосипедов в системе
-
+![image](https://github.com/Won20/Big-Data/assets/102918065/55c5dbb7-8d07-446f-95e2-bca04457df28)
 
 ## 5) найти пользователей потративших на поездки более 3 часов
+![image](https://github.com/Won20/Big-Data/assets/102918065/9f8ff2ba-6367-457b-9747-e3ef3fdce3ef)
