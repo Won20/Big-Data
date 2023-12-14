@@ -22,7 +22,8 @@
 
 ## RidesAndFaresExercise
 В [файл с заданием](https://github.com/Won20/Big-Data/blob/main/LR3_Dubman__Stream%20processing%20with%20Apache%20Flink/flink-training-exercises/src/main/scala/com/ververica/flinktraining/exercises/datastream_scala/state/RidesAndFaresExercise.scala) было добавлено следующее решение:
-![image](https://github.com/Won20/Big-Data/assets/102918065/a71f845f-e2a3-4310-99b6-df3fdf6d554a)
+![image](https://github.com/Won20/Big-Data/assets/102918065/1ca8b338-7f45-4c0b-b81e-4c7023b4ad9e)
+![image](https://github.com/Won20/Big-Data/assets/102918065/9ff77ef5-8c3c-4740-8b2d-2419ed8f17e8)
 
 ## HourlyTipsExerxise
 В [файл с заданием](https://github.com/Won20/Big-Data/blob/main/LR3_Dubman__Stream%20processing%20with%20Apache%20Flink/flink-training-exercises/src/main/scala/com/ververica/flinktraining/exercises/datastream_scala/windows/HourlyTipsExercise.scala) был написан класс:
