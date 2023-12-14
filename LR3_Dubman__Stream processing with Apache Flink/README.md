@@ -34,7 +34,9 @@
 
 ## ExpiringStateExercise
 В [файл с заданием](https://github.com/Won20/Big-Data/blob/main/LR3_Dubman__Stream%20processing%20with%20Apache%20Flink/flink-training-exercises/src/main/scala/com/ververica/flinktraining/exercises/datastream_scala/process/ExpiringStateExercise.scala) был написан класс:
-![image](https://github.com/Won20/Big-Data/assets/102918065/8898d5d7-dace-42cd-a8af-9625afcf5769)
+![image](https://github.com/Won20/Big-Data/assets/102918065/51813f80-54c2-479f-934d-98fc10f575bd)
+![image](https://github.com/Won20/Big-Data/assets/102918065/1dde0c15-b601-479d-964a-0a6f1391185a)
+![image](https://github.com/Won20/Big-Data/assets/102918065/f680189c-fdb4-4a1d-951c-c8d30b52800b)
 
 # Тесты:
 
