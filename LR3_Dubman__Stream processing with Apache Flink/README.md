@@ -14,7 +14,7 @@
 # Реализация: 
 
 Задания были выполнены на языке Scala. Перед выполнением заданий были указаны пути к данным в файле [ExerciseBase.java](https://github.com/Won20/Big-Data/blob/main/LR3_Dubman__Stream%20processing%20with%20Apache%20Flink/flink-training-exercises/src/main/java/com/ververica/flinktraining/exercises/datastream_java/utils/ExerciseBase.java):
-![image](https://github.com/Won20/Big-Data/assets/102918065/e33da993-cb7f-45a5-bd02-083edbc24c82)
+![image](https://github.com/Won20/Big-Data/assets/102918065/9ee2c94e-2d84-48fe-a6fe-9d1d1fef5755)
 
 ## RideCleanisingExercise
 В [файл с заданием](https://github.com/Won20/Big-Data/blob/main/LR3_Dubman__Stream%20processing%20with%20Apache%20Flink/flink-training-exercises/src/main/scala/com/ververica/flinktraining/exercises/datastream_scala/basics/RideCleansingExercise.scala) было добавлено следующее решение: 
