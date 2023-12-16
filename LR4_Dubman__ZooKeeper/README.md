@@ -16,6 +16,7 @@
 
 # Реализация
 ## Установка ZooKeeper
+![image](https://github.com/Won20/Big-Data/assets/102918065/8218fc45-5186-4c3b-a6d8-3ed4b0a81428)
 ![image](https://github.com/Won20/Big-Data/assets/102918065/86b50b1a-369f-4d92-aeca-91abf4791023)
 ![image](https://github.com/Won20/Big-Data/assets/102918065/b37ad688-5c90-4e08-a8ab-90992e8ba16e)
 
