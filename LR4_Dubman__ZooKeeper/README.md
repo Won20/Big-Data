@@ -14,7 +14,6 @@
 - разработать приложение с барьерной синхронизацией, основанной на ZooKeeper,
 - запустить и проверить работу приложения.
 
-
 # Реализация
 ## Установка ZooKeeper
 ![image](https://github.com/Won20/Big-Data/assets/102918065/86b50b1a-369f-4d92-aeca-91abf4791023)
@@ -39,13 +38,13 @@
 ## Были добавлены следующие конфигурации запуска Fox
 ![image](https://github.com/Won20/Big-Data/assets/102918065/516858a9-845d-40ea-a9cc-58437419e59a)
 
-# Запуск программы с конфигурацией Monkey
+## Запуск программы с конфигурацией Monkey
 ![image](https://github.com/Won20/Big-Data/assets/102918065/e6500422-8b2a-4b94-a11d-9f972312075d)
 
-## В результате этого запуска на сервере появился узел monkey
+### В результате этого запуска на сервере появился узел monkey
 ![image](https://github.com/Won20/Big-Data/assets/102918065/02a04cf8-e9b0-4395-839b-a143aa4ee144)
 
-# Запуск программы с конфигурацией Fox
+## Запуск программы с конфигурацией Fox
 ![image](https://github.com/Won20/Big-Data/assets/102918065/0e3b68af-b712-4603-85ad-ca51fffea688)
 ![image](https://github.com/Won20/Big-Data/assets/102918065/12bedf5b-8ced-43e2-be8d-499d02fd7c5d)
 Количество узлов достигло 2, узел fox был удалён по завершении цикла.
