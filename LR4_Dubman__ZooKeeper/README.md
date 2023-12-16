@@ -29,7 +29,7 @@
 ![image](https://github.com/Won20/Big-Data/assets/102918065/29745f9d-fcad-415e-9c7b-6879512f818c)
 ![image](https://github.com/Won20/Big-Data/assets/102918065/923cdf23-c669-4337-bfc4-d1bbaa6f97f8)
 
-## Был реализован класс Main
+## Был реализован Main
 ![image](https://github.com/Won20/Big-Data/assets/102918065/9f988bff-392a-4953-b0b9-5c4d20ece94e)
 
 ## Были добавлены следующие конфигурации запуска Monkey
